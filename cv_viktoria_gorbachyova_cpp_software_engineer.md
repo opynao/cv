@@ -1,6 +1,6 @@
 ## Viktoria Gorbachyova / C++ software engineer
 ### [gorbachova20@gmail.com](mailto:gorbachova20@gmail.com)  
-### [https://github.com/opynao/](https://github.com/vikGorbachova/learning)
+### [https://github.com/opynao/](https://github.com/opynao)
 
 ## Skills
 
